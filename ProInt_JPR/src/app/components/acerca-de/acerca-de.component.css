@@ -1,5 +1,5 @@
 .row{
-    padding:10px;
+    padding:20px;
 }
 div{
     background-color: #a1b5cb;
@@ -9,27 +9,27 @@ div{
 @media (min-width:576px){
     #fperfil{
         position:absolute;
-        width:10%;
+        width:15%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left:2%;
-        top:400px;
+        top:350px;
     }
 }
 @media (max-width:575px){
     #fperfil{
         position:absolute;
-        width:30%;
+        width:20%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
-        left:2%;
-        top:630px;
+        left:3%;
+        top:900px;
     }
 }
 
 #nombre{
     font-weight: bold;
-    margin-top: 5%;
+    margin-top: 30%;
     
 }
 
